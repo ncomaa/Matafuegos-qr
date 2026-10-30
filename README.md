@@ -7,9 +7,9 @@ Escanea el QR con la cámara en vivo, con una foto del código o pegando el enla
 Trae los datos solos desde la página oficial de la AGC (si está configurado el Google Apps Script). Si no se pueden traer, se completan a mano.
 Calcula las fechas clave: último mantenimiento, prueba hidráulica, fabricación y vida útil, con cuánto falta o cuánto pasó desde cada vencimiento.
 Marca el estado de cada extintor según lo primero que vence:
-🟢 Vigente
-🟡 Por vencer (menos de 30 días)
-🔴 Vencido
+- 🟢 Vigente
+- 🟡 Por vencer (menos de 30 días)
+- 🔴 Vencido
 Guarda una foto de la etiqueta como respaldo.
 Registra varias estampillas por extintor, para ver el historial de mantenimientos.
 Cómo se usa
